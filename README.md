@@ -1,5 +1,6 @@
 # Investigating-spatial-bias-in-citizen-science-phenological-data
 Xinyi_Qiu MSc Thesis 
+
 The folder "Data Filtering" contains data for processing voluntary phenological observations and codes for processing.
 - Data sheet "ancillary_individual_plant_data.csv", "ancillary_site_data.csv" and "individual_phenometrics_data.csv" are input data.
 - Data sheet "one_individual_site.csv" is the output data from processing.
